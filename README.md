@@ -228,8 +228,4 @@ Blon includes several GUI themes that mimic popular Minecraft clients:
 
 I encourage you to work on this project and submit pull requests :D.
 
-This addon is developed by blon (@every_ne). For suggestions or bug reports:
-
-## Join the Discord for suggestions:
-
-https://discord.gg/5PFjMYh6SG
+This addon is developed by blon (aka gerog).
