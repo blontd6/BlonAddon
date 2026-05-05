@@ -58,7 +58,7 @@ Default: 16x16x32 with red_stained_glass
 - **FPS Checker**: Disconnects or runs commands when FPS drops too low
 - **Notifications**: Shows alerts when protections are triggered
 
-### AutoSex
+### Auto...
 **Description**: Spawns block display using the command block core.
 
 **Key Settings**:
